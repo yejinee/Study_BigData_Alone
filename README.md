@@ -9,7 +9,7 @@
 - Sort() & argsort()
 - np.dot() & transpose()
 
-## PandasModule
+## PandasModule_1
 - read_csv()
 - shape
 - info(), describe()
@@ -20,3 +20,14 @@
 - Drop()
 - Index
 - reset_index()
+
+## PandasModule_2
+- column 추출 (인덱싱)
+- iloc[]
+- loc[]
+- sort_values()
+- Aggregation 함수
+- groupby() / agg()
+- 결손 데이터 처리 ( isna() & fillna() )
+- apply() (lambda 식)
+
