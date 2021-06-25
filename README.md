@@ -54,6 +54,14 @@
     - 표준화 (StandardScaler)
     - 정규화 (MinMaxScaler)
 
+### Evaluation
+- 성능평가 지표
+    - 정확도 (Accuracy)
+    - 오차행렬 (Confusion Matrix)
+    - 정밀도 (Precision)
+    - 재현율 (Recall)
+    - F1 스코어
+    - ROC AUC
 
 ## DoExcercises
 ### Reuters_News_Classification_Example
@@ -62,3 +70,5 @@
 
 ### Titanic_Example_Sklearn
 - Sklearn 예제
+
+### Pima_Indian_Diabetes
