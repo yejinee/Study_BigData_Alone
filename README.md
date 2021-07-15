@@ -32,13 +32,17 @@
 - 결손 데이터 처리 ( isna() & fillna() )
 - apply() (lambda 식)
 
+### Regression
+- 간단한 회귀분석 예제 & 해석
+
 <br></br>
 
-## Machine Learning Basic
-### SklearnExample1
+## ML_Concept
+### ML_Basic_Concept
+- ML 기본 개념
 - iris 품종 Classification
 
-### SklearnExample2
+### CrossValidation
 - 과적합
 - 교차검증
     - K 폴드 교차 검증
@@ -63,6 +67,9 @@
     - F1 스코어
     - ROC AUC
 
+### 5. Classification
+- classification 기본 개념
+
 ## DoExcercises
 ### Reuters_News_Classification_Example
 - Text Mining예제
@@ -72,3 +79,4 @@
 - Sklearn 예제
 
 ### Pima_Indian_Diabetes
+- Evaluation 확인하기 위한 예제
