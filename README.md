@@ -70,10 +70,27 @@
 ### 5. Classification
 - classification 기본 개념
 
+<br>
+
+</br>
+
+## ML_Technique
+### Classification
+- Decision Tree
+- Ensemble 기법 적용한 Algorithm
+    - Random Forest
+    - GBM
+    - XGBoost
+
+<br>
+
+</br>
+
 ## DoExcercises
 ### Reuters_News_Classification_Example
 - Text Mining예제
 - 로이터 뉴스를 category에 맞게 분류하는 예제
+- LSTM Algorithm 이용
 
 ### Titanic_Example_Sklearn
 - Sklearn 예제
