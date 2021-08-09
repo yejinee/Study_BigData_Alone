@@ -38,11 +38,11 @@
 <br></br>
 
 ## ML_Concept
-### ML_Basic_Concept
+### 1.ML_Basic_Concept
 - ML 기본 개념
 - iris 품종 Classification
 
-### CrossValidation
+### 2.CrossValidation
 - 과적합
 - 교차검증
     - K 폴드 교차 검증
@@ -50,7 +50,7 @@
     - Cross_val_score()
     - GridSearchCV
 
-### PreProcessing
+### 3.PreProcessing
 - Data Encoding
     - Label Encoding
     - One Hot Encoding
@@ -58,7 +58,7 @@
     - 표준화 (StandardScaler)
     - 정규화 (MinMaxScaler)
 
-### Evaluation
+### 4.Evaluation
 - 성능평가 지표
     - 정확도 (Accuracy)
     - 오차행렬 (Confusion Matrix)
@@ -67,7 +67,7 @@
     - F1 스코어
     - ROC AUC
 
-### 5. Classification
+### 5.Classification
 - classification 기본 개념
 
 <br>
@@ -97,3 +97,9 @@
 
 ### Pima_Indian_Diabetes
 - Evaluation 확인하기 위한 예제
+
+### TF_IDF_Basic_Example
+- TF-IDF 이용한 간단한 추천 예제
+
+### Movie_Recommendation
+- Contents Based Filtering 예제
