@@ -1,21 +1,4 @@
 # ✔ Spark Basic
-- local 모드 ( 비분산 모드) 로 실행해보기!
-
-
-## ✔ Settings
-### 0. 사용 환경 
-- Virtual Box
-- OS : Ubuntu
-### 1. Java 설치
-- Spark는 JVM 위에서 돌아감으로 Java 6 이후 버전이 필요
-
-
-### 2. Spark 설치
-
-
-<br>
-
-</br>
 
 ## ✔ Spark의 셸
 - 여러 머신의 메모리나 디스크에 분산되어 존재하는 데이터들과 통신 가능 
